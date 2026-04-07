@@ -2,6 +2,7 @@ class InsuranceProcess
 {
     public void checkRenewal()
     {
-        info("Renewal needed for selected item");
+        info("Checking insurance renewal...");
+        info("Insurance renewal process started");
     }
 }
