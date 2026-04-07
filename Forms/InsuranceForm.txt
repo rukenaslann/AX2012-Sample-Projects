@@ -1,0 +1,4 @@
+form InsuranceForm
+{
+    // Sample AX 2012 form structure
+}
