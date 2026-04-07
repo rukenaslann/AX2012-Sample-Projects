@@ -1,0 +1,6 @@
+table InsuranceTable
+{
+    ItemId itemId;
+    TransDate startDate;
+    TransDate endDate;
+}
