@@ -1,0 +1,7 @@
+class InsuranceProcess
+{
+    public void checkRenewal()
+    {
+        info("Checking insurance renewal...");
+    }
+}
